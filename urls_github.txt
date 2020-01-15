@@ -1,0 +1,15 @@
+assets-cdn.github.com
+codeload.github.com
+documentcloud.github.com
+gist.github.com
+github.com
+github.global.ssl.fastly.net
+github.io
+github-cloud.s3.amazonaws.com
+global-ssl.fastly.net
+help.github.com
+nodeload.github.com
+raw.github.com
+status.github.com
+training.github.com
+www.github.com
