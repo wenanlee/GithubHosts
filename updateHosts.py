@@ -28,4 +28,5 @@ for item in hostsDict:
     hosts.write(hostsDict[item]+" "+item+"\n")
 urls.close()
 hosts.close()
+os.system('ipconfig /flushdns')
 os.system('pause')
